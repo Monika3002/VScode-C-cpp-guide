@@ -2,7 +2,8 @@
 
 Welcome to the guide that will help you set up Visual Studio Code for C & C++ development on Windows. Let's make coding a delightful experience!
 
-![Visual Studio Code Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40basakabhijoy%2Fwriting-a-visual-studio-code-extension-in-minutes-bb97722c4ca&psig=AOvVaw35-lZBLGY5caRnnucU7eCy&ust=1704056173471000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjj1bWGuIMDFQAAAAAdAAAAABAD)
+![Visual Studio Code Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png)
+
 
 
 ## Step 1: Install Visual Studio Code
