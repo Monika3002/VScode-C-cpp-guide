@@ -2,7 +2,7 @@
 
 Welcome to the guide that will help you set up Visual Studio Code for C & C++ development on Windows. Let's make coding a delightful experience!
 
-![Visual Studio Code Logo](Reference Images/vs-logo.jpeg)
+![Visual Studio Code Logo]([Reference Images/vs-logo.jpeg](https://github.com/Monika3002/VScode-C-cpp-guide/blob/main/Reference%20Images/code-runner.jpeg))
 
 
 
