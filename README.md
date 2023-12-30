@@ -30,7 +30,7 @@ Welcome to the guide that will help you set up Visual Studio Code for C & C++ de
  
 4. **Edit Path Variable:** In the "System variables" section, select the "Path" variable, then click "Edit."
  
-   ![](![](https://github.com/Monika3002/VScode-C-cpp-guide/blob/main/Reference%20Images/code-runner.jpeg))
+   ![](https://github.com/Monika3002/VScode-C-cpp-guide/blob/main/Reference%20Images/variables.jpeg)
  
 5. **Add Mingw-w64 to Path:** Click "New" and add the path to the `bin` directory of Mingw-w64 (e.g., `C:\mingw-w64\mingw64\bin`).
  
