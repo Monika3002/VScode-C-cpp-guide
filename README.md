@@ -1,7 +1,8 @@
 # 🚀 Setting Up Visual Studio Code for C++ Development on Windows
 
-Welcome to the guide that will help you set up Visual Studio Code for C++ development on Windows. Let's make coding a delightful experience!
+Welcome to the guide that will help you set up Visual Studio Code for C & C++ development on Windows. Let's make coding a delightful experience!
 
+![Visual Studio Code Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40basakabhijoy%2Fwriting-a-visual-studio-code-extension-in-minutes-bb97722c4ca&psig=AOvVaw35-lZBLGY5caRnnucU7eCy&ust=1704056173471000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjj1bWGuIMDFQAAAAAdAAAAABAD)
 
 
 ## Step 1: Install Visual Studio Code
@@ -11,7 +12,7 @@ Welcome to the guide that will help you set up Visual Studio Code for C++ develo
 
 ## Step 2: Install Mingw-w64
 
-1. **Download Mingw-w64 Installer:** Visit the [Mingw-w64 download page](https://mingw-w64.org/doku.php) and get "mingw-w64-install.exe."
+1. **Download Mingw-w64 Installer:** Visit the [Mingw-w64 download page](https://sourceforge.net/projects/mingw/) and get "mingw-w64-install.exe."
 2. **Run the Installer:** Run the installer, customize your preferences, and set the installation directory (e.g., `C:\mingw-w64`).
 3. **Add to System Path:** During installation, ensure that you select the option to add Mingw-w64 to the system PATH.
 
